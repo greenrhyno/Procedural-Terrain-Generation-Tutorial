@@ -68,9 +68,11 @@
     <Compile Include="Assets\Scripts\FalloffGenerator.cs" />
     <Compile Include="Assets\Scripts\MapDisplay.cs" />
     <Compile Include="Assets\Scripts\Data\UpdatableData.cs" />
+    <Compile Include="Assets\Scripts\Data\TextureData.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\StarterAssets\Environment\Shaders\Built-in_RP\Triplanar.shader" />
+    <None Include="Assets\Shaders\Terrain.shader" />
     <None Include="Assets\StarterAssets\license.txt" />
   </ItemGroup>
   <ItemGroup>
